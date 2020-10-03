@@ -28,3 +28,4 @@ print(twoSum(nums=[0, 4, 3, 0], target=0))
 #       return index
 #       if(index>=0) and (index!=i):
 #         return [i,index]
+2
