@@ -1,19 +1,3 @@
-def add2(l1,l2):
-  diff = (len(l1)-len(l2))
-  if diff > 0:
-    print(l2)
-    for i in range(diff):
-      l2.insert(0,0)
-      print(l2)
-  elif diff<0:
-    print(l1)
-    for i in range(abs(diff)):
-      l1.insert(0,0)
-      print(l1)
-  
-add2([1,2,3],[1,2,3,4])
-
-
 # num = 89
 # w=num/10                = 8.9
 # x=int(num/10)           =  8
@@ -35,5 +19,23 @@ def addTwoNumbers( l1, l2):
       # print(res[i-1],res[i],res1) 
   return res
 
-print(addTwoNumbers([2,4],[5,6,4]))
+print(addTwoNumbers([2,4,7],[5,6,4]))
 
+
+
+# logic to equalize two list of different lengths before adding
+
+# def add2(l1,l2):
+#   diff = (len(l1)-len(l2))
+#   if diff > 0:
+#     print(l2)
+#     for i in range(diff):
+#       l2.insert(0,0)
+#       print(l2)
+#   elif diff<0:
+#     print(l1)
+#     for i in range(abs(diff)):
+#       l1.insert(0,0)
+#       print(l1)
+  
+# add2([1,2,3],[1,2,3,4])
