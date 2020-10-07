@@ -1,6 +1,6 @@
 # Python101
 
-Welcome to Python101! This project will help you get started on the basic concepts to master Python. This projects is devided into:
+Welcome to Python101! This project will help you get started on the basic concepts to master Python. This projects is divided into:
 
   - [Concepts](#concepts)  - to learn the basic concepts and keywords
   - [Leetcode](#leetcode) - some examples from leetcode: easy and medium challenges
