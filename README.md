@@ -33,7 +33,7 @@ https://www.python.org/downloads/
 
 * **Thrifty Kapila** - *Initial work* - [thriftykapila](https://github.com/thriftykapila)
 
-See also the list of [contributors](https://github.com/your/project/contributors) who participated in this project.
+See also the list of [contributors](https://github.com/thriftykapila/Python101/CONTRIBUTORS.md) who participated in this project.
 
 ## Acknowledgments
 
