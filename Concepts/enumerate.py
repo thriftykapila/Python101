@@ -1,6 +1,6 @@
 # Python provide the built-in function enumerate() for keeping the count while doing iterations.
 # Let's see its syntax:
-# 
+#
 # enumerate(iterable, start = 0)
 # Parameters:
 # - iterable: any object that supports iteration.

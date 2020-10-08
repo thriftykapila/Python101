@@ -8,6 +8,7 @@ Syntax:
         Body of derived class
 '''
 
+
 class Employee:
 
     raise_amt = 1.04

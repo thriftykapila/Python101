@@ -1,5 +1,5 @@
 
-#Solution 1 - Working
+# Solution 1 - Working
 # def reverse(x):
 #     y = ""
 #     if int(x) <= -1:y="-";x = int(x)*-1
@@ -9,7 +9,7 @@
 
 # print(reverse(-123))
 
-#Solution 2 - working
+# Solution 2 - working
 
 # def reverse(x: int):
 #         n = 0
@@ -35,11 +35,11 @@
 # Solution to convert positive number using reverse method of list
 
 # def reverse( x: int):
-#   res = [int(i) for i in str(x)] 
+#   res = [int(i) for i in str(x)]
 #   res.reverse()
 #   s = [str(i) for i in res]
 #   out = int("".join(s))
-#   return out 
+#   return out
 # print(reverse(321))
 
 # Solution to convert positive number using slice method of string
