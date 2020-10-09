@@ -1,3 +1,6 @@
+
+#you can use this program inorder to improve list's and arg working in python !
+
 words=['cat', 'dog', 'god', 'cat'] 
 uniqueWords=list(set(words))                              #['dog', 'cat', 'god']
 print('Unique Words ',uniqueWords)
